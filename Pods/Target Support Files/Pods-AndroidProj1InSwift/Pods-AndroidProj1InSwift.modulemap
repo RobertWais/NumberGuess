@@ -1,0 +1,6 @@
+framework module Pods_AndroidProj1InSwift {
+  umbrella header "Pods-AndroidProj1InSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
